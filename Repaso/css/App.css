@@ -1,0 +1,28 @@
+.encabezado{
+    padding:5px;
+    margin:5px;
+   font-family: 'Courier New', monospace;
+    background:rgb(134, 109, 167);
+    color: rgb(8, 8, 8);
+}
+.contenedores{
+  
+    width: 90%;
+    height: auto;
+    padding: 5px;
+    
+    
+}
+.texto{
+  
+    color:rgb(0, 0, 0);
+    font-family: 'Courier New', monospace;
+}
+.piedpagina{
+    padding:10px;
+    margin:5px; 
+    
+    font-family: 'Courier New', monospace;
+    background: #8b1c1c;
+    color: white;
+}
